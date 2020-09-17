@@ -29,5 +29,4 @@ Imagination will get you everywhere."*
 Albert Einstein.
 ![test2](https://user-images.githubusercontent.com/63842238/93444596-fc6b5500-f8d0-11ea-9259-9f9a9eeef3b3.jpg)
 
-![test](https://user-images.githubusercontent.com/63842238/93442584-5881a980-f8d0-11ea-94be-71f443e0b055.jpeg)
 
